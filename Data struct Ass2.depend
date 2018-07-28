@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1532753474 source:f:\data struct ass2\main.cpp
+	<iostream>
+	<stdlib.h>
+	<conio.h>
+
